@@ -8,7 +8,7 @@ I'm Bupal Chowdary, a dedicated Software Developer focused on crafting high-qual
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Bupalchow&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
